@@ -1,0 +1,2 @@
+sajjad,03004209515,200 (Purchase)
+kd,32989,200 (Rental)

@@ -1,0 +1,13 @@
+1001,corolla,new,white,toyota,automatic,0
+1002,corolla,new,black,toyota,automatic,382.877
+98,bmw,new,red,bmw,automatic,78
+18,bnb,new,white,unuy,manual,67
+333,xxx,new,white,yyy,manual,0
+1872,farari,new,white,yyy,manual,90
+222,audi,new,white,yyy,manual,56
+2222,xxxx,new,white,yyy,manual,56
+1111,yyyy,new,white,yyy,manual,34
+100,bmw,new,black,yyy,manual,34
+ooo,ppp,new,blue,uuu,automatic,89
+1002,corolla,new,blue,toyota,automatic,67
+200,mehran,new,white,suzuki,manual,40.5
